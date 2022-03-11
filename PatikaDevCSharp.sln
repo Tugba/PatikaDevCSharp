@@ -5,11 +5,15 @@ VisualStudioVersion = 16.0.31624.102
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Operatorler", "Operatorler\Operatorler.csproj", "{6B79B03B-1435-4C2B-9E52-D113ACB86DBF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TipDonusumleri", "TipDonusumleri\TipDonusumleri.csproj", "{5575EF50-F5BD-4991-B961-96579A651A65}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TipDonusumleri", "TipDonusumleri\TipDonusumleri.csproj", "{5575EF50-F5BD-4991-B961-96579A651A65}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HataYonetimi", "HataYonetimi\HataYonetimi.csproj", "{970CB5D9-2A88-49EB-9938-73B38A301ED3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HataYonetimi", "HataYonetimi\HataYonetimi.csproj", "{970CB5D9-2A88-49EB-9938-73B38A301ED3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IfElse", "IfElse\IfElse.csproj", "{D72FEED5-B0AE-47B4-9C04-820897E7CF74}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IfElse", "IfElse\IfElse.csproj", "{D72FEED5-B0AE-47B4-9C04-820897E7CF74}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "deneme", "deneme\deneme.csproj", "{BB58DD4F-38E2-4D19-B2D1-F79850EF9D77}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwitchCase", "SwitchCase\SwitchCase.csproj", "{768A7F67-7A76-4673-B338-B09E7325E15E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{D72FEED5-B0AE-47B4-9C04-820897E7CF74}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D72FEED5-B0AE-47B4-9C04-820897E7CF74}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D72FEED5-B0AE-47B4-9C04-820897E7CF74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB58DD4F-38E2-4D19-B2D1-F79850EF9D77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB58DD4F-38E2-4D19-B2D1-F79850EF9D77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB58DD4F-38E2-4D19-B2D1-F79850EF9D77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB58DD4F-38E2-4D19-B2D1-F79850EF9D77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{768A7F67-7A76-4673-B338-B09E7325E15E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{768A7F67-7A76-4673-B338-B09E7325E15E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{768A7F67-7A76-4673-B338-B09E7325E15E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{768A7F67-7A76-4673-B338-B09E7325E15E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwitchCase", "SwitchCase\Sw
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForLoopBreakContinue", "ForLoopBreakContinue\ForLoopBreakContinue.csproj", "{8533E210-2482-4755-AE07-ECF5B2B6D38D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhileForeach", "whileForeach\WhileForeach.csproj", "{340C5174-9FD7-43DE-B0F8-18009E9CD103}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{8533E210-2482-4755-AE07-ECF5B2B6D38D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8533E210-2482-4755-AE07-ECF5B2B6D38D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8533E210-2482-4755-AE07-ECF5B2B6D38D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{340C5174-9FD7-43DE-B0F8-18009E9CD103}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{340C5174-9FD7-43DE-B0F8-18009E9CD103}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{340C5174-9FD7-43DE-B0F8-18009E9CD103}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{340C5174-9FD7-43DE-B0F8-18009E9CD103}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

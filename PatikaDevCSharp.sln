@@ -25,7 +25,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArraySinifiMetotlari", "Arr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Metotlar", "Metotlar\Metotlar.csproj", "{4E4F0EAB-6F57-4F24-9FBB-F2DDB5FFC1CC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetotOverloading", "MetotOverloading\MetotOverloading.csproj", "{38703427-1EB5-49E9-BB45-65A4C6D45BDD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MetotOverloading", "MetotOverloading\MetotOverloading.csproj", "{38703427-1EB5-49E9-BB45-65A4C6D45BDD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RekürsifVeExtensionMetotlar", "RekürsifVeExtensionMetotlar\RekürsifVeExtensionMetotlar.csproj", "{CF4CF13D-373A-448A-B4E4-078F2A597597}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +83,10 @@ Global
 		{38703427-1EB5-49E9-BB45-65A4C6D45BDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{38703427-1EB5-49E9-BB45-65A4C6D45BDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{38703427-1EB5-49E9-BB45-65A4C6D45BDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF4CF13D-373A-448A-B4E4-078F2A597597}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF4CF13D-373A-448A-B4E4-078F2A597597}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF4CF13D-373A-448A-B4E4-078F2A597597}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF4CF13D-373A-448A-B4E4-078F2A597597}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

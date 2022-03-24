@@ -27,9 +27,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Metotlar", "Metotlar\Metotl
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MetotOverloading", "MetotOverloading\MetotOverloading.csproj", "{38703427-1EB5-49E9-BB45-65A4C6D45BDD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RekürsifVeExtensionMetotlar", "RekürsifVeExtensionMetotlar\RekürsifVeExtensionMetotlar.csproj", "{CF4CF13D-373A-448A-B4E4-078F2A597597}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RekürsifVeExtensionMetotlar", "RekürsifVeExtensionMetotlar\RekürsifVeExtensionMetotlar.csproj", "{CF4CF13D-373A-448A-B4E4-078F2A597597}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgoritmaSorulari", "AlgoritmaSorulari\AlgoritmaSorulari.csproj", "{B7E88D61-2648-42D9-A30B-9260FBDC498A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AlgoritmaSorulari", "AlgoritmaSorulari\AlgoritmaSorulari.csproj", "{B7E88D61-2648-42D9-A30B-9260FBDC498A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HazirMetotlar", "HazirMetotlar\HazirMetotlar.csproj", "{357ECCC1-612E-4541-B529-FB7CAC3FFB8B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +95,10 @@ Global
 		{B7E88D61-2648-42D9-A30B-9260FBDC498A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B7E88D61-2648-42D9-A30B-9260FBDC498A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B7E88D61-2648-42D9-A30B-9260FBDC498A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{357ECCC1-612E-4541-B529-FB7CAC3FFB8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{357ECCC1-612E-4541-B529-FB7CAC3FFB8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{357ECCC1-612E-4541-B529-FB7CAC3FFB8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{357ECCC1-612E-4541-B529-FB7CAC3FFB8B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

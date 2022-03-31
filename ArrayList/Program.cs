@@ -65,6 +65,11 @@ namespace Array_List
             {
                 Console.WriteLine(item);
             }
+
+
+            Console.WriteLine("*****************************deneme*********************************");
+            decimal sayi = Convert.ToDecimal( 4 ) / Convert.ToDecimal(5);
+            Console.WriteLine(sayi);
         }
     }
 }

@@ -41,7 +41,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DictionaryCalismasi", "Dict
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KoleksiyonlarOdev", "Koleksiyonlar-Soru-1\KoleksiyonlarOdev.csproj", "{A7580B33-7DDB-4ADA-9D9D-58430294ED6C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SinifKavrami", "SinifKavrami\SinifKavrami.csproj", "{38905B94-B86C-46C9-BAAB-ED2A778558D2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SinifKavrami", "SinifKavrami\SinifKavrami.csproj", "{38905B94-B86C-46C9-BAAB-ED2A778558D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KurucuMetotlar", "KurucuMetotlar\KurucuMetotlar.csproj", "{3E6DC588-C01F-4314-9E22-8CF179E26334}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -129,6 +131,10 @@ Global
 		{38905B94-B86C-46C9-BAAB-ED2A778558D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{38905B94-B86C-46C9-BAAB-ED2A778558D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{38905B94-B86C-46C9-BAAB-ED2A778558D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E6DC588-C01F-4314-9E22-8CF179E26334}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E6DC588-C01F-4314-9E22-8CF179E26334}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E6DC588-C01F-4314-9E22-8CF179E26334}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E6DC588-C01F-4314-9E22-8CF179E26334}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

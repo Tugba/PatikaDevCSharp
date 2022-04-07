@@ -15,7 +15,7 @@ namespace SinifKavrami
             
             calisan1.CalisanBilgileri();
 
-            Console.WriteLine("********************");
+            Console.WriteLine("******************** ");
 
             Calisan calisan2 = new Calisan();
             calisan2.Ad = "Deniz";
